@@ -7,7 +7,7 @@ const Footer = () => {
             <p className="text-sm text-gray-400">Made by <span className="font-semibold text-white">Aman Dhiman</span></p>
           </div>
           <div className="flex items-center space-x-6 text-sm text-gray-400">
-            <span>© 2024 Cricket Scoreboard System</span>
+            <span>© 2025 Cricket Scoreboard System</span>
             <span>•</span>
             <span>All rights reserved</span>
           </div>
